@@ -1,0 +1,27 @@
+#outer_div{
+    height: 200px;
+    width: 75px;
+    background-color: white;
+    border:2px solid black;
+    margin-top: 10px;
+    transform: translateX(500px);
+}
+
+.inner_div{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px 0px 0px 10px;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
